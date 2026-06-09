@@ -2,11 +2,11 @@
 ## UX/UI Designer
 
 Nantes, France  
-(+33) 7 82 91 23 44   
-edouard.desgree@gmail.com  
-Portfolio : [edouard.desgree.com](https://edouard.desgree.com)  
-LinkedIn : [@edouarddesgree](https://linkedin.com/in/edouarddesgree)  
-GitHub : [@edesgree](https://github.com/edesgree)
+(+33) 7 82 91 23 44  
+[edouard.desgree@gmail.com](mailto:edouard.desgree@gmail.com)  
+Portfolio: [edouard.desgree.com](https://edouard.desgree.com)  
+LinkedIn: [@edouarddesgree](https://linkedin.com/in/edouarddesgree)  
+GitHub: [@edesgree](https://github.com/edesgree)  
 
 ---
 

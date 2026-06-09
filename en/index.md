@@ -109,6 +109,7 @@ Project : Redesign of the "ameli.fr" user account platform – Agile product tea
 * Managed a team of junior designers
 
 ---
+
 ### Webmaster — BNP Paribas (Canal Net)
 **2007 – 2008 | Paris, France**
 
