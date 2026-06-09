@@ -46,6 +46,7 @@ Outils projet & collaboration : Jira, Trello, Confluence, Slack, Git, ZeroHeight
 
 ### Designer UX/UI — Caisse Nationale de l'Assurance Maladie (CNAM)
 **2024 - présent | Angers**
+
 Projet : refonte du compte assuré sur ameli.fr (équipe produit agile)
 
 - Participation aux phases de cadrage UX : analyse des besoins, parcours utilisateurs, arborescence
