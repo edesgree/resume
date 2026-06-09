@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Edouard Desgrée — UX/UI Designer
 image: /assets/images/edouard.webp
-test: 123
+baseurl: "/resume"
+url: "https://edesgree.github.io"
