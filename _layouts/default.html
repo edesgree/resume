@@ -27,7 +27,13 @@
           <p><a href="{{ site.baseurl }}/" title="Français">🇫🇷</a>  <a href="{{ site.baseurl }}/en" title="English">🇬🇧</a></p>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-
+        <p>
+            {% if page.lang == 'en' %}
+            <a href="{{ site.baseurl }}/pdf/cv-edouard-desgree-2026-en.pdf" target="_blank">[⬇ PDF]</a>
+            {% else %}
+            <a href="{{ site.baseurl }}/pdf/cv-edouard-desgree-2026-fr.pdf" target="_blank">[⬇ PDF]</a>
+            {% endif %}
+        </p>
       </header>
       <section>
 

@@ -1,3 +1,8 @@
+---
+layout: default
+lang: fr
+---
+
 # Edouard Desgrée
 ## UX/UI Designer
 
